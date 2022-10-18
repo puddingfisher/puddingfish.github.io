@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 我的博客</title>
+        <link>https://localhost:1313/posts/</link>
+        <description>Recent content in Posts on 我的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-CN</language><atom:link href="https://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>https://localhost:1313/1/01/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://localhost:1313/1/01/</guid>
+        <description>&lt;p&gt;-&amp;ndash;
+title: &amp;ldquo;我的第一篇博客&amp;rdquo;          &lt;br&gt;
+author: &amp;ldquo;我是作者&amp;rdquo;
+description : &amp;ldquo;这是描述信息&amp;rdquo;&lt;br&gt;
+date: 2022-10-18 &lt;br&gt;
+lastmod: 2022-10-18&lt;/p&gt;
+&lt;p&gt;tags : [               &lt;br&gt;
+&amp;ldquo;我的博客标签&amp;rdquo;,
+]
+categories : [            &lt;br&gt;
+&amp;ldquo;我的博客分类&amp;rdquo;,
+]
+keywords : [             &lt;br&gt;
+&amp;ldquo;我的博客关键字&amp;rdquo;,
+]
+-&amp;ndash;
+这里是Markdown 正文&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
